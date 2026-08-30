@@ -136,7 +136,7 @@ print()
 
 
 # =========================
-# PROGRAM CONTINUE
+# PROGRAM CONTINUE90
 # =========================
 
 print("=== CONTOH CONTINUE ===")
